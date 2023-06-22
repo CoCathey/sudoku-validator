@@ -1,10 +1,3 @@
-Name: Cathey, Creighton
-Email: ccathe4@lsu.edu
-Project: PA-1 (Multithreading)
-Instructor: Feng Chen
-Class: cs4103-sp23
-Login ID: cs410307
-
 Program info and how to use the program: 
 
 How to compile:
